@@ -9,7 +9,7 @@ import { getFirestore, collection, addDoc } from 'https://www.gstatic.com/fireba
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    
+    //Paste your own configurations
 };
 
 // Initialize Firebase
